@@ -3,9 +3,16 @@
 How does the relationship between political misinformation and life satisfaction change across demographics?
 
 ## 2. Dataset Information 
-Politifact Dataset: With 2520 claims that have been curated from Politifact, a prominent fact-checking organisation in the United States.
+### Politifact Dataset: 
+With 2520 claims that have been curated from Politifact, a prominent fact-checking organisation in the United States.
 
-YouGov Poll: Life satisfaction poll from 2020 to 2026, split by age bracket, ethnicity, education and gender. 
+| Variable | 
+| claim made  |
+
+### YouGov Poll: 
+Life satisfaction poll from 2020 to 2026, split by age bracket, ethnicity, education and gender. 
+Question asked: Overall, how satisfied are you with your life nowadays? To be answered on a scale of 0-10, where 0 is not at all and 10 is completely. 
+Data is a percentage of respondents for every number on the scale of 0-10, with information about the number of respondents for the month below. 
 
 ## 3. Dataset Cleaning
 ### Politifact Dataset
